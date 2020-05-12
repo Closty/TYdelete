@@ -1,3 +1,5 @@
+<img src="https://cdn.jsdelivr.net/gh/closty/TYdelete/TYdelete.jpg" alt="TYdelede" align=center />
+
 # TYdelete
 typecho前台删除文章,登陆后可见删除文章按钮
 
